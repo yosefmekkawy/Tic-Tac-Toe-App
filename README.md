@@ -13,7 +13,8 @@ This framework is suitable for building multiple board games like X-O and simila
 <h2>Games</h2>
 
 1-3x3 Tic-Tac-Toe
-the classic tic tac toe game with the 3x3 board
+The Classic Tic Tac Toe Game with the 3x3 board
+Winning: The first player to get three-in-a-row vertically, horizontally, or diagonally wins.
 
 2- Pyramic Tic-Tac-Toe
 The game board is shaped like a pyramid. Five squares make the base, then three, then one. Players take turns marking Xs and Os as in traditional tic-tac-toe.
@@ -21,7 +22,7 @@ Winning: The first player to get three-in-a-row vertically, horizontally, or dia
  
 3- Four-in-a-row
 You will recognize four-in-a row as a two-dimensional version of the classic game, Connect Four. The game board consists of a 7 x 6 grid. Seven columns of six squares each. Instead of dropping counters as in Connect Four, players mark the grid with Xs and Os as in tic-tac-toe.
-Rules: The first player places an X in the bottom square of any column. Taking turns, players make their mark in any column, as long as it is in the lowest square possible. See image below for an example of possible first six moves.
+Rules: The first player places an X in the bottom square of any column. Taking turns, players make their mark in any column, as long as it is in the lowest square possible.
 Winning: The first player to get four-in-a-row vertically, horizontally, or diagonally wins.
  
 4- 5 x 5 Tic Tac Toe 
