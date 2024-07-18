@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-C-App
-a C++ Console game with the following games : 3x3 Tic Tac Toe - Pyramidic Tic Tac Toe - Connect 4 - 5x5 Tic Tac Toe With an ai player Built With MiniMax Algorithm
+a C++ Console game that incorporates oop features with the following games : 3x3 Tic Tac Toe - Pyramidic Tic Tac Toe - Connect 4 - 5x5 Tic Tac Toe With an ai player Built With MiniMax Algorithm
 <h2>Features</h2>
 board game that consists of the following games classes, separated into a header file and implementation files:
 1-	GameManager that owns a board and 2 players and runs the game and swap turns. 
